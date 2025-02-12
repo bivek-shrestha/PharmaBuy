@@ -120,7 +120,7 @@ PharmaBuy is a beauty and pharmaceutical eCommerce website developed using **PHP
 ## Screenshots
 
 ### **Home Page with Banner**
-![Home Page](path/to/home_page.png)
+![Home Page]([path/to/home_page.png](https://github.com/bivek-shrestha/PharmaBuy/blob/main/DisplayImageShow/home_page.png.png))
 
 ### **Advertising Banner Space**
 ![Advertising Banner](path/to/banner.png)
