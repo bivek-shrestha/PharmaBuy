@@ -123,43 +123,49 @@ PharmaBuy is a beauty and pharmaceutical eCommerce website developed using **PHP
 ![HomePage](DisplayImageShow/home_page.png)
 
 ### **Advertising Banner Space**
-![Advertising Banner](path/to/banner.png)
+![Advertising Banner](DisplayImageShow/banner.png)
 
 ### **Featured Products Section**
-![Featured Products](path/to/featured_products.png)
+![Featured Products](DisplayImageShow/featured_products.png)
 
 ### **Quick View of Featured Products**
-![Quick View](path/to/quick_view.png)
+![Quick View](DisplayImageShow/product_view.png)
 
 ### **Product View Page**
-![Product Page](path/to/product_view.png)
-
+![Product Page](DisplayImageShow/product__view.png)
 ### **Shopping Cart View**
-![Cart View](path/to/cart_view.png)
+![Cart View](DisplayImageShow/Cart_View.png)
 
-### **Sign-in and Sign-up Page**
-![Sign-in Page](path/to/signin_signup.png)
+### **Sign-in Page**
+![Sign-in Page](DisplayImageShow/Signin.png)
+
+### **Sign-up Page**
+![Sign-in Page](DisplayImageShow/SignUp.png)
 
 ### **User Profile Page**
-![User Profile](path/to/user_profile.png)
+![User Profile](DisplayImageShow/User_Profile.png)
 
 ### **Admin Panel**
-![Admin Panel](path/to/admin_panel.png)
+![Admin Panel](DisplayImageShow/admin_panel.png)
 
 ### **User Orders in Admin Panel**
-![User Orders](path/to/user_orders.png)
+![User Orders](DisplayImageShow/user_orders.png)
 
 ### **Adding New Product**
-![Add Product](path/to/add_product.png)
+![Add Product](DisplayImageShow/add_product.png)
 
-### **More Info in Dashboard**
-![Dashboard](path/to/dashboard.png)
 
 ### **Admin Account Management**
-![Admin Management](path/to/admin_management.png)
+![Admin Management](DisplayImageShow/Admin_Account.png)
 
 ### **Mobile View**
-![Mobile View](path/to/mobile_view.png)
+![Mobile View](DisplayImageShow/Mobile_View.png)
+
+### **Mobile View**
+![Mobile View](DisplayImageShow/Mobile_View2.png)
+
+### **Mobile View**
+![Mobile View](DisplayImageShow/Mobile_View3.png)
 
 ---
 
