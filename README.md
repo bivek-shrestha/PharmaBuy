@@ -44,13 +44,6 @@ DB_USERNAME=your_username
 DB_PASSWORD=your_password
 ```
 
-### 4. Install Bagisto Package
-
-Navigate to your project directory and run:
-
-```bash
-composer require bagisto/bagisto
-```
 
 After installation, publish the assets and configurations:
 
