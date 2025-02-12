@@ -94,3 +94,72 @@ Access your application at `http://localhost:8000`.
 -   **Mobile App Integration**: Improve accessibility with a Flutter-based mobile app.
 
 ## Peak to the Project
+# PharmaBuy - Ecommerce Web Application
+
+PharmaBuy is a beauty and pharmaceutical eCommerce website developed using **PHP, Laravel, and Node.js**. This platform allows users to browse and purchase products, manage their carts, and track orders, while admins can oversee customers, manage products, and analyze sales.
+
+## Features
+
+### **User Side**
+- **Home Page with Banner** - Displaying an advertising banner.
+- **Featured Products Section** - Quick view and add-to-cart functionality.
+- **Product View Page** - Detailed product descriptions and images.
+- **Shopping Cart** - Easy checkout process.
+- **User Authentication** - Sign-in and Sign-up pages.
+- **User Profile** - View cart, orders, and wishlist.
+- **Mobile Responsive** - Fully optimized for mobile, tablet, and desktop.
+
+### **Admin Side**
+- **Admin Dashboard** - View customers, revenue, and best-selling items.
+- **User Orders Management** - Track and manage customer orders.
+- **Product Management** - Add, update, and delete products.
+- **Admin Account Handling** - Secure access for administrators.
+
+---
+
+## Screenshots
+
+### **Home Page with Banner**
+![Home Page](path/to/home_page.png)
+
+### **Advertising Banner Space**
+![Advertising Banner](path/to/banner.png)
+
+### **Featured Products Section**
+![Featured Products](path/to/featured_products.png)
+
+### **Quick View of Featured Products**
+![Quick View](path/to/quick_view.png)
+
+### **Product View Page**
+![Product Page](path/to/product_view.png)
+
+### **Shopping Cart View**
+![Cart View](path/to/cart_view.png)
+
+### **Sign-in and Sign-up Page**
+![Sign-in Page](path/to/signin_signup.png)
+
+### **User Profile Page**
+![User Profile](path/to/user_profile.png)
+
+### **Admin Panel**
+![Admin Panel](path/to/admin_panel.png)
+
+### **User Orders in Admin Panel**
+![User Orders](path/to/user_orders.png)
+
+### **Adding New Product**
+![Add Product](path/to/add_product.png)
+
+### **More Info in Dashboard**
+![Dashboard](path/to/dashboard.png)
+
+### **Admin Account Management**
+![Admin Management](path/to/admin_management.png)
+
+### **Mobile View**
+![Mobile View](path/to/mobile_view.png)
+
+---
+
